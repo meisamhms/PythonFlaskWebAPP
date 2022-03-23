@@ -1,3 +1,4 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
 # plana-task1
 
 Hello Dear,
@@ -22,3 +23,10 @@ Do follow the below step to start my app:
    ```sh
    kubctl apply -f Deployment.yaml
    ```
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/meisam-sharahi
