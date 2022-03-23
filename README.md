@@ -1,8 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 # plana-task1
 
-Hello Dear,
-Do follow the below step to start my app:
+Hello Dear,<br>
+Follow the below steps to start my app:
 
 ### Installation
 
