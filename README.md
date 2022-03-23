@@ -17,14 +17,14 @@ Follow the below steps to start my app:
    cd plana-task1
    docker build -t plana-task1:latest .
    docker run -d --rm -p80:5000 plana-task1:latest
-   curl <your_docker_host_ip>
+   curl <your_host_ip>
    ```
 <br>
 
 3- To deploy my project as a single container <i><b>from my image</i></b>:
    ```sh
    docker run -d --rm -p80:5000 meisamhm/plana-task1:latest
-   curl <your_docker_host_ip>
+   curl <your_host_ip>
    ```
 <br>
 
