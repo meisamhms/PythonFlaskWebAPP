@@ -15,8 +15,14 @@ Follow the below steps to start my app:
 2- To deploy my project as a single container <i><b>from scratch</i></b>:
    ```sh
    cd plana-task1
+   ```
+   ```sh
    docker build -t plana-task1:latest .
+   ```
+   ```sh
    docker run -d --rm -p80:5000 plana-task1:latest
+   ```
+   ```sh
    curl <your_host_ip>
    ```
 <br>
@@ -24,6 +30,8 @@ Follow the below steps to start my app:
 3- To deploy my project as a single container <i><b>from my image</i></b>:
    ```sh
    docker run -d --rm -p80:5000 meisamhm/plana-task1:latest
+   ```
+   ```sh
    curl <your_host_ip>
    ```
 <br>
@@ -31,6 +39,8 @@ Follow the below steps to start my app:
 4- To deploy my project in your Kubernetes infrastructure:
    ```sh
    kubctl apply -f Deployment.yaml
+   ```
+   ```sh
    curl <your-cluster-ip>
    ```
 
