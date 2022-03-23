@@ -41,7 +41,7 @@ Follow the below steps to start my app:
    kubctl apply -f Deployment.yaml
    ```
    ```sh
-   curl <your-cluster-ip>
+   curl <worker-node-public-ip>
    ```
 
 
