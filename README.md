@@ -16,7 +16,7 @@ Follow the below steps to start my app:
    ```sh
    cd plana-task1
    docker build -t plana-task1:latest .
-   docker run -d -rm -p80:5000 plana-task1:latest
+   docker run -d --rm -p80:5000 plana-task1:latest
    curl <your_docker_host_ip>
    ```
 <br>
