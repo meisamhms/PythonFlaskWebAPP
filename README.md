@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-# plana-task1
+# A simple Dockerized Python Flask Web APP
 
 Hello Dear,<br>
 Follow the below steps to start my app:
